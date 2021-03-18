@@ -1,1 +1,5 @@
-
+This was a project done as part of the IBM Data science professional certificate on the Coursera platform. 
+In this project I investigated the relationship between the number of COVID cases in a neighbourhood and the types of venues present. 
+For each neighbourhood, I used the Foursquare API to obtain the venues in that neighbourhood and then grouped them by their type. 
+I also obtained the number of COVID cases in that neighbourhood and classified the neighbourhoods as 'high' or 'low' based on whether they are above or below the median number of cases. 
+I then trained various machine learning models to try and predict the class that the neighbourhood belongs to based on the types of venues.  
